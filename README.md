@@ -1,4 +1,4 @@
-# EncourageMon Bot
+# EncourageMon Bot ⚈
 
 ### **YouTube Demo:** https://youtu.be/Tt1XOycII5A
 
